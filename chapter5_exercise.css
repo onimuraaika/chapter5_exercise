@@ -10,7 +10,7 @@ header {
   text-align: center;
 }
 
-nav {
+.nav-list {
   text-align: center;
   margin: 0 auto;
   padding: 15px 0;
@@ -18,7 +18,7 @@ nav {
   border-bottom: 1px solid gray;
 }
 
-.nav-list {
+.nav-list-item {
   list-style: none;
   display: inline-block;
   padding: 0 20px;
@@ -31,73 +31,73 @@ nav {
   flex-wrap: wrap;
 }
 
-.mainbox1 {
+.box1 {
   width: 200px;
   height: 200px;
   background-color: #e6ffe9;
 }
 
-.mainbox2 {
+.box2 {
   width: 200px;
   height: 200px;
   background-color: #cdffd3;
 }
 
-.mainbox3 {
+.box3 {
   width: 200px;
   height: 200px;
   background-color: #aeffbd;
 }
 
-.mainbox4 {
+.box4 {
   width: 200px;
   height: 200px;
   background-color: #93ffab;
 }
 
-.mainbox5 {
+.box5 {
   width: 200px;
   height: 200px;
   background-color: #f3ffd8;
 }
 
-.mainbox6 {
+.box6 {
   width: 200px;
   height: 200px;
   background-color: #edffbe;
 }
 
-.mainbox7 {
+.box7 {
   width: 200px;
   height: 200px;
   background-color: #e9ffa5;
 }
 
-.mainbox8 {
+.box8 {
   width: 200px;
   height: 200px;
   background-color: #e4ff8d;
 }
 
-.mainbox9 {
+.box9 {
   width: 200px;
   height: 200px;
   background-color: #d9e5ff;
 }
 
-.mainbox10 {
+.box10 {
   width: 200px;
   height: 200px;
   background-color: #bad3ff;
 }
 
-.mainbox11 {
+.box11 {
   width: 200px;
   height: 200px;
   background-color: #a4c6ff;
 }
 
-.mainbox12 {
+.box12 {
   width: 200px;
   height: 200px;
   background-color: #8eb8ff;
